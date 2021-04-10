@@ -4,6 +4,8 @@
 Marcus Vinicius de Carvalho Silva
 *viniciusdecarvalho.tec@gmail.com*
 
+#### Kanban
+https://trello.com/b/012893Ew/grupo-4-ds2
 
 #### Descrição
 Criação de projeto para disciplina de desenvolvimento de sistemas na faculdade Lourenço Filho
