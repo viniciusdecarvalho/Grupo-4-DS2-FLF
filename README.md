@@ -1,8 +1,12 @@
 # Grupo-4-DS2-FLF
 
+#### Participantes
+Marcus Vinicius de Carvalho Silva
+*viniciusdecarvalho.tec@gmail.com*
+
+
 #### Descrição
 Criação de projeto para disciplina de desenvolvimento de sistemas na faculdade Lourenço Filho
-
 
 #### Requisitos
 ###### Funcionais
@@ -13,3 +17,9 @@ Criação de projeto para disciplina de desenvolvimento de sistemas na faculdade
   - *Acompanhamento de vendas* - Deve possuir relatorios para acompanhamento de vendas por periodo, onde sera mostrado informacoes das vendas realizadas no periodo, exibindo data, produto, valor de venda, quantidade, valor total, e valores totais do periodo. Deve ser possivel filtrar por alem do periodo, tambem pelo funcionario que efetivou a venda.
   - *Autenticação* - Somente funcionarios devem acessar o sistema
     
+##### Casos de uso
+  - ![DiagramaUsoGeral](https://github.com/viniciusdecarvalho/Grupo-4-DS2-FLF/blob/main/projeto/UC01.png?raw=true "DiagramaUsoGeral")
+
+#### Prototipos
+  - Manter Cliente
+  - ![ManterClientePrototipo](https://github.com/viniciusdecarvalho/Grupo-4-DS2-FLF/blob/main/projeto/Manter%20Cliente%20-%20prototipo.png?raw=true "ManterClientePrototipo")
