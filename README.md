@@ -1,8 +1,11 @@
 # Grupo-4-DS2-FLF
 
 #### Participantes
-Marcus Vinicius de Carvalho Silva
-*viniciusdecarvalho.tec@gmail.com*
+Francisco Wanderson
+Marcus Vinícius de Carvalho Silva *viniciusdecarvalho.tec@gmail.com*
+Thiago Serafim Cally
+Vinícius Mazza
+José Silva Lima
 
 #### Kanban
 https://trello.com/b/012893Ew/grupo-4-ds2
